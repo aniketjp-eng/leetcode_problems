@@ -21,9 +21,9 @@ public class Main {
         // String s = "abcde";
         // String goal = "abced";
 
-        String s = "abc";
-        String goal = "abc";
-      boolean ans = rotateString(s, goal);
-      System.out.println("Got the ans : "+ ans);
+    //     String s = "abc";
+    //     String goal = "abc";
+    //   boolean ans = rotateString(s, goal);
+    //   System.out.println("Got the ans : "+ ans);
     }
 }
