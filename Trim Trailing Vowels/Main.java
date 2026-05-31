@@ -23,8 +23,8 @@ public class Main {
         } 
         return "";
     }
-   //  Conclusion : SC = O(n)  StringBuilder copy → O(n) Returned substring → O(n) in worst case ==> total SC =  O(n) + O(n) = O(n)
-   //  TC :  Loop traversal : O(n),substring copy : O(n),Total TC = O(n) 
+// TC = O(n) : loop traversal + substring copy
+// SC = O(n) : StringBuilder copy + returned substring
      public static void main(String[] args) {
         String s = "idea";
         String ans = trimTrailingVowels(s);
