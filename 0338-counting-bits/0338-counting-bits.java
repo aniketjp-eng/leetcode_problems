@@ -1,22 +1,20 @@
 class Solution {
-    public int deciToBin(int i) {
-       int count1 = 0;
-       int ans = 0;
+    public int count(int i) {
+       int count = 0;
        while(i != 0 ){
-        int rem = i % 2; // 0
+        int rem = i % 2; 
         if(rem == 1) {
-            count1++;
+            count++;
         }
-        ans = (ans * 10 ) +  rem; //10
         i/=2;
        }
-       return count1;
+       return count;
     }
     public int[] countBits(int n) {
         int[] ans = new int[n+1];
         ans[0] = 0;
         for(int i = 1; i <=n; i++){
-            ans[i] = deciToBin(i);
+            ans[i] = count(i);
         }
         return ans;
     }
