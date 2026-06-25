@@ -9,8 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aniketjp-eng/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/aniketjp-eng/leetcode_problems/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aniketjp-eng/leetcode_problems/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/aniketjp-eng/leetcode_problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
