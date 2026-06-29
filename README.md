@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/aniketjp-eng/leetcode_problems/tree/master/1025-divisor-game) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/aniketjp-eng/leetcode_problems/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/aniketjp-eng/leetcode_problems/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
